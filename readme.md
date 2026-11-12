@@ -57,4 +57,4 @@ Schreibt Drehbücher und macht dann die Regie von Filmen.
 
 - Ein Drehbuch wird ca. 5 mal gross überarbeitet
 - Feedback wird zuerst lange liegen gelassen
-- 3 Filme hat er schon raus gebracht
+- 3 Filme hat er schon raus gebracht, z.B. [Chrieg](https://youtu.be/H63DfYjsu6Q?si=l6kDfXBDh9WClNwn)
