@@ -40,3 +40,15 @@ Das Heuptprodukt sind dann die Anwendung von Nanopubs und Tools dazu, wie z.B.  
 
 ### Genetik
 
+## Weitere Berufe
+Im Haus sind verschiedene kleinere Firmen und Start=Ups.
+
+### Venture Capitalist
+Investiert in Firmen und im Idealfall gibts dann später mehr zurück.
+
+### Regisseur und Drehbuchautor
+Schreibt Drehbücher und macht dann die Regie von Filmen.
+
+- Ein Drehbuch wird ca. 5 mal gross überarbeitet. 
+- Feedback wird zuerst lange liegen gelassen.
+- 3 Filme hat er schon raus gebracht.
