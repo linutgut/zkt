@@ -13,8 +13,10 @@ Command line based.
 
 ### github
 Remote Server und Hoster von git. Microsoft Aquired. 
->gh ...
+>gh ... 
+
 >ssh ...
+
 >git remote ...
 
 ### markdown
@@ -31,14 +33,18 @@ Entwicklungsumgebung, kann fast alle Programmiersprachen. Debuging und DB Anbind
 
 ### Nanopublikationen
 [Nanopubs](https://nanopub.net) sind die Basis von [Knowledge Pixels AG](http://www.knowledgepixels.com). 
-Das Heuptprodukt sind dann die Anwendung von Nanopubs und Tools dazu, wie z.B.  [Nanodash](https://nanodash.knowledgepixels.com/). 
+Das Hauptprodukt sind dann die Anwendung von Nanopubs und Tools dazu, wie z.B.  [Nanodash](https://nanodash.knowledgepixels.com/). 
 
 
 ### Bio
-
-### Mikrobiologie
+Heute ist eine Biologie Forscherin aus Indien im Büro. Sie verwendet Nanopubs für 
+die veröffentlichung ihrer Forschung. Das Projekt ist sehr gross, dauert Dekaden, und es arbeiten hunderte Leute daran.
 
 ### Genetik
+Es geht hier um die genetische Veränderung von E-Coli Bakterien, zur Lebend-Impfstoff Gewinnung
+
+### Mikrobiologie 
+Phänotypen von Bakterien mit nur einem Chromosom sind meistens an der Verstoffwechslung beobachtbar.
 
 ## Weitere Berufe
 Im Haus sind verschiedene kleinere Firmen und Start=Ups.
@@ -49,6 +55,6 @@ Investiert in Firmen und im Idealfall gibts dann später mehr zurück.
 ### Regisseur und Drehbuchautor
 Schreibt Drehbücher und macht dann die Regie von Filmen.
 
-- Ein Drehbuch wird ca. 5 mal gross überarbeitet. 
-- Feedback wird zuerst lange liegen gelassen.
-- 3 Filme hat er schon raus gebracht.
+- Ein Drehbuch wird ca. 5 mal gross überarbeitet
+- Feedback wird zuerst lange liegen gelassen
+- 3 Filme hat er schon raus gebracht
