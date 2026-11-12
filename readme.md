@@ -47,7 +47,7 @@ Es geht hier um die genetische Veränderung von E-Coli Bakterien, zur Lebend-Imp
 Phänotypen von Bakterien mit nur einem Chromosom sind meistens an der Verstoffwechslung beobachtbar.
 
 ## Weitere Berufe
-Im Haus sind verschiedene kleinere Firmen und Start=Ups.
+Im Haus sind verschiedene kleinere Firmen und Start-Ups.
 
 ### Venture Capitalist
 Investiert in Firmen und im Idealfall gibts dann später mehr zurück.
