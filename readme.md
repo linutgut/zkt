@@ -30,8 +30,8 @@ Entwicklungsumgebung, kann fast alle Programmiersprachen. Debuging und DB Anbind
 - md
 
 ### Nanopublikationen
-[Nanopubs](https://nanopub.net) sind das 
-Hauptgebiet von [Knowledge Pixels AG](http://www.knowledgepixels.com) 
+[Nanopubs](https://nanopub.net) sind die Basis von [Knowledge Pixels AG](http://www.knowledgepixels.com). 
+Das Heuptprodukt sind dann die Anwendung von Nanopubs und Tools dazu, wie z.B.  [Nanodash](https://nanodash.knowledgepixels.com/). 
 
 
 ### Bio
